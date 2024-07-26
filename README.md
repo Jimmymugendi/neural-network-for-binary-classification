@@ -1,4 +1,4 @@
-For this exercise, you will create a simple neural network example in an AWS SageMaker notebook. We'll use a synthetic dataset to predict whether a customer will make a purchase based on two features:
+For this project, I will create a simple neural network example in an AWS SageMaker notebook. l use a synthetic dataset to predict whether a customer will make a purchase based on two features:
 
 * Website visit duration
 * Number of pages visited.
